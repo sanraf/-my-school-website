@@ -7,8 +7,8 @@ const Topnav = () => {
     <div className='topNav'>
         <div className="container">
           <div className='userlogins'>
-              <span href="#" className="logo1">078 3542 653</span>
-              <span href="#" className="logo1">email@email.com</span>
+              <span href="#" className="logo1">067 108 9950</span>
+              <span href="#" className="logo1">santoschristopher199@gmail.com</span>
           </div>
           <div className='navbar-btns'>
             <a href="#">Portal</a>

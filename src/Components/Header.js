@@ -11,7 +11,7 @@ function Header() {
         <Navbar />
         <div className="container">
           <div className="header_text">
-            <span>Welcome to our innovatie high school</span>
+            <span>Welcome to our innovative high school</span>
             <h1>Welcome to Sebitja Secondary School</h1>
             <p>Lorem ipsum dolor sit amet consectetur 
               adipisicing elit. Illum, quam? Rem totam

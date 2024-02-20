@@ -30,7 +30,7 @@ function Auth() {
   console.log(users)
   
   return (
-    <div><button  >send data</button></div>
+    <div></div>
   )
 }
 

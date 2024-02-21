@@ -26,7 +26,7 @@ function App() {
               quisquam minima autem ab illo ipsam
               exercitationem maiores magni at,
                 numquam consequuntur quis similique officiis
-              facilis placeat voluptas. Odit.</p>
+              facilis placeat voluptas.</p>
              </div>
           </div>
         </div>
